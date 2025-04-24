@@ -251,14 +251,14 @@ ul a {
 }
 
 /* make responsive */
-@media (min-width:200px) {
+@media (min-width:700px) {
     body {
         width: 100%;
         height: auto;
     }
 }
 
-@media (max-width:600px) {
+@media (max-width:1440px) {
     body {
         width: auto;
         height: 100%;
